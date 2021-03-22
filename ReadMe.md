@@ -1,4 +1,4 @@
-# INSECTOPEDIA APP FOR INSECTS IN AFRICA
+# WildNigeria Web App for Non-governmantal organisations
 
 # Technology
 
@@ -10,3 +10,5 @@ Npm
 # Read Tailwind docs for installation
 
 # npm run build-css for tailwind files
+
+# npm install for dependencies
